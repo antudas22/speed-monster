@@ -175,6 +175,13 @@ button {
   top: 0;
 }
 
+.blog-title{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+
 @media only screen and (max-width: 700px) {
   .box-container {
     padding: 0 20px;
